@@ -34,8 +34,6 @@ Passionate about building clean, efficient, and scalable software. I enjoy turni
 ![](https://streak-stats.demolab.com/?user=HarshvardhanPawar-B&theme=aura&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=HarshvardhanPawar-B&theme=aura&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ImranKhanYouTuber) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alamimran613) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ikyoutuber) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@technosnag) 
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=alamimran613&limit=5&theme=dark&combine_all_yearly_contributions=true)
